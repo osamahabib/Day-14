@@ -1,0 +1,150 @@
+.body{
+    width: 45%;
+    background-color: darkslategrey;  
+    padding: 30px 25px 30px 25px;  
+}
+
+#header_head{
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.topic{
+    display: inline-block;
+}
+
+#box-1{
+    display: flex;
+    width: 100%;
+    /* padding: 20px 15px 10px 15px; */
+}
+
+#first_left_box{
+    background-color: #ff9e1b;
+    text-align: center;
+    margin: 25px 0px 10px 15px;
+    padding-top: 35px;
+    width: 50%;
+}
+
+#first_right_box{
+    background-color: #00b2e2;
+    margin: 25px 15px 10px 0px;
+    padding-top: 35px;
+    text-align: center;
+    width: 50%;
+}
+
+#box-2{
+    background-color: #ff5959;
+    margin: 20px 15px 10px 15px;
+}
+
+#box_two{
+    display: flex;
+    padding: 20px 15px 10px 15px;
+    padding-left: 20px;
+}
+
+#images{
+    display: flex;
+}
+
+#images div{
+    padding-right: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#box-3{
+    background-color: #00b2e2;
+    margin: 20px 15px 10px 15px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+#box_three{
+    display: flex;
+    text-align: left;
+}
+
+#box_three div{
+    width: 50%;
+    text-align: justify;
+    padding-right: 15px;
+}
+#box-4{
+    display: flex;
+    text-align: center;
+    margin: 20px 15px 10px 15px;
+}
+
+#fourth_left_box{
+    background-color: #ff5959;
+}
+
+#fourth_right_box{
+    background-color: #ff9e1b;
+}
+
+#banner_8{
+    background-color: #00b2e2;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin: 20px 15px 10px 15px;
+    text-align: center;
+}
+
+#banner_9{
+    background-color: #ff9e1b;
+    margin: 20px 15px 10px 15px;
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+
+#box-5{
+    display: flex;
+    margin: 20px 15px 10px 15px;
+    padding-top: 20px;
+
+}
+
+#box-5 div{
+    width: 50%;
+    /* padding-left: 20px; */
+    padding-right: 15px;
+}
+
+#box_five_left{
+    text-align: center;
+    background-color: #00b2e2;
+}
+
+#box_five_left i{
+    padding-top: 20px;
+    
+}
+
+#box_five_right{
+    text-align: center;
+    background-color: #ff5959;
+} 
